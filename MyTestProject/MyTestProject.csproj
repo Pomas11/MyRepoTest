@@ -63,9 +63,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DriverInit.cs" />
+    <Compile Include="Login.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scrolling.cs" />
     <Compile Include="SendText.cs" />
+    <Compile Include="VKsendMessage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />
